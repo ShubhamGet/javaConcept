@@ -12,7 +12,7 @@ public class App {
             for (i = 0; i < n; i++) {
                 a[i] = sc.nextInt();
             }
-            System.out.println("Array element's \n");
+            System.out.println("Entered Array element's \n");
             for (i = 0; i < n; i++) {
                 System.out.println(+a[i]);
 
