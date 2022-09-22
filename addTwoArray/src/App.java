@@ -8,7 +8,7 @@ public class App {
         int sum[][] = new int[3][3];
         int i, j;
 
-        System.out.println("Enter 1'st Element of array ");
+        System.out.println("Enter 1'st, Element of array ");
         for (i = 0; i < 3; i++) {
             for (j = 0; j < 3; j++) {
                 a[i][j] = sc.nextInt();
