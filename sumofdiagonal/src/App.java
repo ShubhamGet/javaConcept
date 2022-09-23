@@ -18,7 +18,7 @@ public class App {
                     System.out.println(+a[i][j] + "\t");
                 }
             }
-            System.out.println("Sum of diagonal element \n");
+            System.out.println("Sum of diagonal element from left side second\n");
             for (i = 0; i < 3; i++) {
                 for (j = 0; j < 3; j++) {
                     if (a[i] == a[j]) {
